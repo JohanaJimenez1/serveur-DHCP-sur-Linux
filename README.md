@@ -5,9 +5,9 @@ Installation d'un serveur DHCP sur Linux
 
 ![dhcp2](https://github.com/JohanaJimenez1/serveur-DHCP-sur-Linux/assets/137881601/a03bc11c-25e7-4068-9f19-62dda2912b86)
 
-![3](https://github.com/JohanaJimenez1/serveur-DHCP-sur-Linux/assets/137881601/92a72a92-f763-4681-9bd2-f733f73d2ffb)
+![11](https://github.com/JohanaJimenez1/serveur-DHCP-sur-Linux/assets/137881601/dc674f8c-fa4e-48ff-b2f7-96203407abe6)
 
-![4](https://github.com/JohanaJimenez1/serveur-DHCP-sur-Linux/assets/137881601/5690c64d-a143-455a-9165-be424774b93f)
+![12](https://github.com/JohanaJimenez1/serveur-DHCP-sur-Linux/assets/137881601/cc525c12-3274-4159-a021-5a6182dc1312)
 
 ![5](https://github.com/JohanaJimenez1/serveur-DHCP-sur-Linux/assets/137881601/c145c46e-e210-42d6-a772-5380833a1f7b)
 
